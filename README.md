@@ -1,11 +1,16 @@
 # cache-cache
 Hey, it my first java project 😉. I create and upload it here [codes-sources](http://codes-sources.commentcamarche.net/source/102408-jeu-de-cache-cacheAuteur) in 2019. It hide and seek game with 100F coin. more description at [codes-sources](http://codes-sources.commentcamarche.net/source/102408-jeu-de-cache-cacheAuteur)
 
-## How to run 
+## How to run
+
+- Compile the code
+```bash
+ javac src/Principale.java
+```
 
 - Run the project
 ```bash
- java src/Principale.java
+ java src/Principale
 ```
 - local user credentials
 ```java
